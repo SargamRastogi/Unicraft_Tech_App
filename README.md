@@ -17,10 +17,13 @@ Social Media Links, Physical Address , Company Tagline / Description, Year Found
 # Set up and run
 # Clone repository
 git clone https://github.com/SargamRastogi/Unicraft_Tech_App.git
-cd webscraper
+cd webscraper_project
 
 # Install dependencies
 pip install -r requirements.txt
+
+# Run Migrations 
+python manage.py migrate
 
 # Run development server
 python manage.py runserver
