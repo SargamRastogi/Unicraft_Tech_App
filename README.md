@@ -16,7 +16,7 @@ Social Media Links, Physical Address , Company Tagline / Description, Year Found
 
 # Set up and run
 # Clone repository
-git clone https://github.com/yourusername/webscraper.git
+git clone https://github.com/SargamRastogi/Unicraft_Tech_App.git
 cd webscraper
 
 # Install dependencies
